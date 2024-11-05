@@ -1,4 +1,4 @@
-# Project Overview
+# Project Overview 
 
 This project focuses on automating the testing of the Create Account and Sign In functionalities for the Magento website.
 
